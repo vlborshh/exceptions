@@ -1,10 +1,7 @@
 package dz3;
 
 import java.io.*;
-import java.nio.file.FileSystemException;
 import java.util.Scanner;
-
-import dz3_2.Checking;
 
 public class Main {
     public static void main(String[] args) {
